@@ -9,6 +9,7 @@ using ServiceMtk_P1_20190140101;
 
 namespace ServerConfigMtk_P2_20190140101
 {
+    //membuat Class Program
     class Program
     {
         static void Main(string[] args)
